@@ -4,8 +4,8 @@
 ### 定义
 * 定义了算法族，分别封装起来，让它们之间可以相互替换，此模式让算法的变化独立于使用算法的客户。
 
-###UML类图
-* ![strategy](https://github.com/Deep2018530/DesignModes/raw/master/images/strategy.jpg) 
+### UML类图
+![strategy](https://github.com/Deep2018530/DesignModes/raw/master/images/strategy.jpg) 
 ### 举例
 [菜鸟的设计模式之旅——策略模式](https://www.cnblogs.com/deepSleeping/p/10738020.html "请多指教")
 
