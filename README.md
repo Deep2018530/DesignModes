@@ -13,5 +13,5 @@
 ### 定义
 * 在对象之间定义一对多的依赖，这样一来，当一个对象改变状态，依赖它的对象会收到通知，并自动更新。
 ### UML类图
-* [![baidu]](http://baidu.com) 
+* ![observer](https://github.com/Deep2018530/DesignModes/raw/master/images/observer.png) 
 ### 举例
