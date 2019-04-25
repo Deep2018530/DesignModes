@@ -15,3 +15,4 @@
 ### UML类图
 ![observer](https://github.com/Deep2018530/DesignModes/raw/master/images/observer.png) 
 ### 举例
+[菜鸟的设计模式之旅——观察者模式](https://www.cnblogs.com/deepSleeping/p/10767107.html "请多指教")
